@@ -464,7 +464,7 @@ section .title::after{
 .contact .right form .email{
     margin-left: 10px;  
 }
-.contact .right form  input,.field
+.contact .right form  input
 .contact .right form .textarea textarea{
     height: 100%;
     width: 100%;
